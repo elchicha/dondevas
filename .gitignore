@@ -1,5 +1,7 @@
 env/
 __pycache__/
 .vscode/
+staticfiles/
 
 *.sqlite3
+*.pyc
